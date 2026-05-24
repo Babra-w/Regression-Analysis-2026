@@ -345,7 +345,7 @@ def main():
     # 生成总结报告
     generate_summary_comparison(results_dir)
 
-    print("\n🎉 Week 11 全部任务完成！")
+    print("\n Week 11 全部任务完成！")
 
 if __name__ == "__main__":
     main()
